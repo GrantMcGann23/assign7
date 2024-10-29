@@ -1,0 +1,27 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    margin: 20px;
+  }
+  
+  /* Headings */
+  h1, h2 {
+    color: purple; /* Set headings to purple */
+  }
+  
+  /* Paragraphs */
+  body p {
+    color: #333; /* Set paragraphs to dark grey */
+    max-width: 600px;
+    margin: 10px auto;
+  }
+  
+  /* Lists */
+  ul, ol {
+    margin-left: 20px;
+    border: 2px solid orange; /* Add border to lists */
+    padding: 10px; /* Add some padding to make it tidy */
+  }
+  
